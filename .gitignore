@@ -1,0 +1,7 @@
+/bin/
+/build/
+/vendor/
+composer.lock
+/report/
+/xml/
+/index.php
